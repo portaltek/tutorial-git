@@ -1,1 +1,2 @@
-init experiment1.txt
+init experiment1
+mod1 experiment1
